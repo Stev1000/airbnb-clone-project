@@ -93,3 +93,16 @@ The Airbnb Clone Project is a backend-focused simulation of a real-world booking
 - **Secure Transactions**: Ensures payments and bookings are not tampered with.
 - **Platform Integrity**: Builds trust and prevents system abuse or attacks.
 
+## CI/CD Pipeline
+
+**CI/CD (Continuous Integration and Continuous Deployment)** automates the process of testing, building, and deploying code.
+
+### Benefits:
+- Automatically runs tests when code is pushed.
+- Builds Docker containers and deploys the app reliably.
+- Minimizes human errors during deployment.
+
+### Tools:
+- **GitHub Actions**: Automates testing and deployment workflows.
+- **Docker**: Ensures consistency across development, testing, and production environments.
+- **Heroku / AWS / Railway**: Can be used as deployment platforms.
