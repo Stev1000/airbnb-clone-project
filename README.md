@@ -10,7 +10,7 @@ The Airbnb Clone Project is a backend-focused simulation of a real-world booking
 - Integrate CI/CD and deployment tools.
 - Practice real-world database design.
 
-## Tech Stack
+## Technology Stack
 - Django
 - MySQL
 - GraphQL
